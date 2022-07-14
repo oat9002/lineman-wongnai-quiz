@@ -13,5 +13,5 @@ func main() {
 		whatIsIt += string(sd[i])
 	}
 
-	println(whatIsIt)
+	println(whatIsIt) // Join:us:at:LINE:MAN:Wongnai
 }
